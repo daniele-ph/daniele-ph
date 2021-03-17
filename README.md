@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniele-ph
 - 👀 I’m photographer and editor based in Italy
 - 🌱 I’m currently learning about some digital media software
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail or my website www.danielelisi.com
 
 <!---
